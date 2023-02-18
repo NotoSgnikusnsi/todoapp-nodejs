@@ -1,0 +1,25 @@
+{
+  "name": "todoapp-nodejs",
+  "version": "1.0.0",
+  "description": "todoapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotoSgnikusnsi/todoapp-nodejs.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Noto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotoSgnikusnsi/todoapp-nodejs/issues"
+  },
+  "homepage": "https://github.com/NotoSgnikusnsi/todoapp-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
