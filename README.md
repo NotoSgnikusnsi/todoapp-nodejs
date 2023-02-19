@@ -22,6 +22,7 @@ todoappの作成を通してNode.jsの学習をすすめる
 - スクショ
 ![screen](https://user-images.githubusercontent.com/70315255/219951808-3d23432d-8796-4adc-ac43-892e0bfeb9fd.png)
 
-
-
 ## 参考
+- https://youtu.be/JBCykXLfvv0
+- https://weseek.co.jp/tech/913/
+- https://youtube.com/playlist?list=PLgx8xyH2m7OUtmSNw_RLOUDiBnZjhz0d8
