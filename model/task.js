@@ -8,9 +8,13 @@ const taskSchema = new mongoose.Schema({
     min: 1,
     max: 50
   },
-  check: {
+  status: {
     type: Boolean,
     require: true
+  },
+  userid: {
+    type: ObjectId,
+    ref: User,
   }
 });
 
