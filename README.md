@@ -22,6 +22,23 @@ todoappの作成を通してNode.jsの学習をすすめる
 - スクショ
 ![screen](https://user-images.githubusercontent.com/70315255/219951808-3d23432d-8796-4adc-ac43-892e0bfeb9fd.png)
 
+## 構成
+e.g. HTTPメゾット エンドポイント
+routers/accounts.js
+- GET /todo
+- GET /todo/account/login
+- POST /todo/account/login
+- GET /todo/account/signup
+- POST /todo/account/signup
+routers/todos.js
+- GET /todo/task/
+- PUT /todo/task/{task_id}
+- DELETE /todo/task/{task_id}
+- PUT /todo/task/{task_id}/done
+- DELETE /todo/task/{task_id}/done
+- GET /todo/task/add
+- POST /todo/task/add
+
 ## 参考
 - https://youtu.be/JBCykXLfvv0
 - https://weseek.co.jp/tech/913/
